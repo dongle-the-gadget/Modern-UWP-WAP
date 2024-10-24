@@ -1,0 +1,34 @@
+{
+  "TargetResults": {
+    "_ExpandProjectReferences": {
+      "Result": "Success",
+      "Items": [
+        {
+          "Identity": "D:\\source\\App1\\App1\\App1\\bin\\win-x64\\publish\\App1.exe",
+          "TargetFrameworkIdentifier": ".NETCoreApp",
+          "TargetFileName": "App1.dll",
+          "OutputType": "WinExe",
+          "TargetPlatformIdentifier": "Windows",
+          "SourceProject": "App1",
+          "OriginalItemSpec": "bin\\\\\\win-x64\\publish\\App1.exe",
+          "TargetDir": "D:\\source\\App1\\App1\\App1\\bin\\x64\\Release\\net9.0-windows10.0.26100.0\\win-x64\\",
+          "TargetPath": "App1.exe",
+          "FullPath": "D:\\source\\App1\\App1\\App1\\bin\\win-x64\\publish\\App1.exe",
+          "RootDir": "D:\\",
+          "Filename": "App1",
+          "Extension": ".exe",
+          "RelativeDir": "D:\\source\\App1\\App1\\App1\\bin\\win-x64\\publish\\",
+          "Directory": "source\\App1\\App1\\App1\\bin\\win-x64\\publish\\",
+          "RecursiveDir": "",
+          "ModifiedTime": "2024-10-22 21:12:34.1098834",
+          "CreatedTime": "2024-10-22 21:12:34.2543533",
+          "AccessedTime": "2024-10-22 21:12:34.2575153",
+          "DefiningProjectFullPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Microsoft\\DesktopBridge\\Microsoft.DesktopBridge.targets",
+          "DefiningProjectDirectory": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Microsoft\\DesktopBridge\\",
+          "DefiningProjectName": "Microsoft.DesktopBridge",
+          "DefiningProjectExtension": ".targets"
+        }
+      ]
+    }
+  }
+}
